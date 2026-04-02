@@ -1,4 +1,4 @@
-# IPL-Dash-board-Using-Power-BI
+# 🏏IPL-Dash-board-Using-Power-BI📊
 # Data-Analytics-Project
 
 This repository contain data visualization project  analyzing IPL -T20 match datasets to transform raw data into actionable insights.
