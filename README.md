@@ -9,7 +9,7 @@ Explored IPL-T20 data from 2008 to 2025 and built an interactive Power BI dashbo
 ### 🔍 About the Project:
 This dashboard transforms raw IPL data into powerful insights, helping analyze team performance, player stats, and overall tournament trends in a simple and interactive way.
 
-
+![IPL_dashboard](Screenshot%202026-04-02%20224316.png)
 ### ✨ Analysis Focus
 * **Season-wise analysis with dynamic filtering**
 * **Total matches, teams, venues, and key statistics overview**
