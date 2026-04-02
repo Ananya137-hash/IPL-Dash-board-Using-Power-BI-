@@ -6,7 +6,7 @@ This repository contain data visualization project  analyzing IPL -T20 match dat
 ## IPL Analysis Dashboard (2008–2025) 🏏📊
 
 Explored IPL-T20 data from 2008 to 2025 and built an interactive Power BI dashboard to uncover meaningful insights from one of the most exciting cricket leagues in the world.
-###🔍 About the Project:
+### 🔍 About the Project:
 This dashboard transforms raw IPL data into powerful insights, helping analyze team performance, player stats, and overall tournament trends in a simple and interactive way.
 
 ![IPl Dashboard](/Screenshot 2026-04-02 224316.png)
