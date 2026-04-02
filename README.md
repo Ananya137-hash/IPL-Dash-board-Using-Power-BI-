@@ -12,17 +12,17 @@ This dashboard transforms raw IPL data into powerful insights, helping analyze t
 ![IPl Dashboard]()
 
 ###✨ Analysis Focus
-• **Season-wise analysis with dynamic filtering**
-• **Total matches, teams, venues, and key statistics overview**
-• **Orange Cap & Purple Cap performance analysis**
-• **Player stats – Runs, Wickets, Fours, and Sixes**
-• **Team rankings with an interactive points table**
-• **Clean and user-friendly dashboard design for better storytelling**
+* **Season-wise analysis with dynamic filtering**
+* **Total matches, teams, venues, and key statistics overview**
+* **Orange Cap & Purple Cap performance analysis**
+* **Player stats – Runs, Wickets, Fours, and Sixes**
+* **Team rankings with an interactive points table**
+* **Clean and user-friendly dashboard design for better storytelling**
 ### 🛠 Skills & Tools Used:
-• **Power BI**(Dashboarding & Visualization)
-• **Data Cleaning & Transformation**
-• **Data Analysis & Interpretation**
-• **Data Storytelling**
+* **Power BI**(Dashboarding & Visualization)
+* **Data Cleaning & Transformation**
+* **Data Analysis & Interpretation**
+* **Data Storytelling**
 
 💡 This project served as a deep dive into the  sports analytics, demonstrating how data visualization can transform raw numbers into actionable strategy. As I continue to expand my portfolio in Data Analytics and Business Intelligence, I welcome any feedback or industry insights you might have!
 ---
