@@ -11,7 +11,7 @@ This dashboard transforms raw IPL data into powerful insights, helping analyze t
 
 ![IPl Dashboard]()
 
-###✨ Analysis Focus
+### ✨ Analysis Focus
 * **Season-wise analysis with dynamic filtering**
 * **Total matches, teams, venues, and key statistics overview**
 * **Orange Cap & Purple Cap performance analysis**
